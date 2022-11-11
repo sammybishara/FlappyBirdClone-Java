@@ -9,3 +9,8 @@ git clone https://github.com/sammybishara/FlappyBirdClone-Java.git
 cd FlappyBirdClone-Java
 java -jar run.jar
 ```
+
+# Controls 
+
+<kbd>Space</kbd> - Jump  
+<kbd>Up</kbd> - Pause
